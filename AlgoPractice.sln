@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgoPractice", "AlgoPractice\AlgoPractice.vcxproj", "{4D54DCBC-BD02-4E69-8B05-DE7D8759BEEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D54DCBC-BD02-4E69-8B05-DE7D8759BEEA}.Debug|x64.ActiveCfg = Debug|x64
+		{4D54DCBC-BD02-4E69-8B05-DE7D8759BEEA}.Debug|x64.Build.0 = Debug|x64
+		{4D54DCBC-BD02-4E69-8B05-DE7D8759BEEA}.Debug|x86.ActiveCfg = Debug|Win32
+		{4D54DCBC-BD02-4E69-8B05-DE7D8759BEEA}.Debug|x86.Build.0 = Debug|Win32
+		{4D54DCBC-BD02-4E69-8B05-DE7D8759BEEA}.Release|x64.ActiveCfg = Release|x64
+		{4D54DCBC-BD02-4E69-8B05-DE7D8759BEEA}.Release|x64.Build.0 = Release|x64
+		{4D54DCBC-BD02-4E69-8B05-DE7D8759BEEA}.Release|x86.ActiveCfg = Release|Win32
+		{4D54DCBC-BD02-4E69-8B05-DE7D8759BEEA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCE5879A-17DC-4FBA-AA24-E53D0386853A}
+	EndGlobalSection
+EndGlobal
